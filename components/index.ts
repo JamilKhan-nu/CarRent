@@ -7,10 +7,12 @@ import CustomFilter from "./CustomFilter";
 import SearchManufecturer from "./SearchManufecturer";
 import CarCard from "./CarCard";
 import CarDetails from "./CarDetails";
+import ShowMore from "./ShowMore";
 
 export {
   Hero,
   CarDetails,
+  ShowMore,
   CarCard,
   CustomButton,
   Navbar,
